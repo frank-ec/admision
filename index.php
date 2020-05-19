@@ -75,7 +75,7 @@ $enlace10 = ' ';
                 				<li><?php echo $enlace2 ?> </li>
                 				<li><?php echo $enlace3 ?> </li>
                 				<li><?php echo $enlace4 ?> </li>
-						 <li><?php echo $cie10 ?> </li>
+						 		<li><?php echo $cie10 ?> </li>
 	               				<li><?php echo $enlace5 ?> </li>
                 				<li><?php echo $enlace6 ?> </li>
                 				<li><?php echo $enlace7 ?> </li>
@@ -93,25 +93,15 @@ $enlace10 = ' ';
 						</span></a></li>	
 				<!--<li><a href="https://goo.gl/forms/1rhrWhgYy2X392cA2" ><img align="center" border="3" height="50" width="80" src="./img/menu/indice.jpg"><span>Formulario para la Gestión de Cuasi-eventos, Eventos Adversos y Eventos Centinela Relacionados con la Atención Clínica/Quirurgica/Administrativa.
 								</span></a></li>-->
-                
           				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdlSQaYAqcUF4ZZyXezk6z4CVSZW5XYogb1sRv5VpAW-rBtVw/viewform?usp=sf_link" ><img align="center" border="3" height="50" width="80" src="./img/control_impresoras.jpg"><span>Control de Impresoras CST.
 						</span></a></li>
-						
         				<li><?php echo $fondo ?> </li>
-			
-								
-                				
- 
-								
-			</div>	
+ 			</div>	
 			</nav>
 			</header>
 				</ul>	
-
 			<section id="contenido">
             <p style="background-color: yellow;">
-        
-          
             </p>
 			<table border="1" >
 				<td>
